@@ -1,6 +1,6 @@
 # hello-world
 このリポジトリはGithub Flowを実行するためのリポジトリです
 
-# About me
+# 2026ソフトウェア工学演習
 
-My name is Sota Ebina
+第11回　演習課題
