@@ -1,4 +1,6 @@
 # hello-world
 このリポジトリはGithub Flowを実行するためのリポジトリです
 
-埼玉大学工学部情報工学科3年生の蛯名颯太です．
+# About me
+
+My name is Sota Ebina
