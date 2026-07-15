@@ -4,6 +4,7 @@ title: "software Eng. lecture note"
 permalink: /docs/softwareEng2026
 ---
 
+
 #　ソフトウェア工学 2026
 
 ##  ソフトウェア工学の基礎
